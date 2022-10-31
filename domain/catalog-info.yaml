@@ -2,6 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
   name: artists
-  description: Everything about artists
+  description: Everything about artists and stuff
 spec:
   owner: artist-relations-team
